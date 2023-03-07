@@ -21,7 +21,7 @@
   <img align="right" alt="Pedro-pic" height="150"style="border-radius:50px;" src="https://i1.sndcdn.com/artworks-000169499349-jznj34-t500x500.jpg">
 </div>
 
-## **Stats**
+### **Stats**
 <div>
 <!-- <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPeterPietro&theme=dracula&hide_langs_below=1" />
@@ -32,15 +32,10 @@
 </a>
 <div/>
   
+#### You can message me through these social media:
 <p align="left">
   <a href = "mailto:pedrotadeu@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-tadeu-0862a11a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/pedrootadeu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>  
 
-  
-  ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
