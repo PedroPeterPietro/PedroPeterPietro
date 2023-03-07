@@ -1,8 +1,13 @@
 ## Hello everyone
-<div> 
-Im Pedro.
-Currently working with JS and nodeJS
-</div>
+
++ I started programming in **C** and working with **Arduino** in my teens.
+* I'm currently working with **JS** and **NodeJS**
+- I'm an enthusiast in the field of **Machine Learning** and **Embedded Systems**.
++ Quarto elemento
+
+
+
+
 
 ### **Languages and Tools:**
 <div style="display: inline_block"><br>
@@ -30,5 +35,12 @@ Currently working with JS and nodeJS
 <p align="left">
   <a href = "mailto:pedrotadeu@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-tadeu-0862a11a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+ <a href="https://www.instagram.com/pedrootadeu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>  
+
+  
+  ## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
