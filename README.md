@@ -3,7 +3,7 @@
 + I started programming in **C** and working with **Arduino** in my teens.
 * I'm currently working with **JS** and **NodeJS**
 - I'm an enthusiast in the field of **Machine Learning** and **Embedded Systems**.
-+ Quarto elemento
++ Looking to improve my skills and build project for my personal portfolio
 
 
 
