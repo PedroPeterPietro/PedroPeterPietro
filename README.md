@@ -1,11 +1,13 @@
-## Hello everyone :wave: 
+ ## Hello everyone :wave:
+ <head>
+  <img  align="right" src="https://media.tenor.com/6qsDAP2bLQgAAAAC/homework-work.gif"  height="150" width ="150" style="border-radius:50px;" />
+  </head>
 
-+ I started programming in **C** and working with **Arduino** in my teens.
-* I'm currently working with **JS** and **NodeJS**
-- I'm an enthusiast in the field of **Machine Learning** and **Embedded Systems**.
-+ Looking to improve my skills and build project for my personal portfolio
-
-
+   + I started programming in **C** and working with **Arduino** in my teens. 
+   + I'm currently working with **JS** and **NodeJS** 
+   + I'm an enthusiast in the field of **Machine Learning** and **Embedded Systems**.
+   + Looking to improve my skills and build project for my personal portfolio 
+  
 
 
 
@@ -18,18 +20,17 @@
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-TensorFLow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="right" alt="Pedro-pic" height="150"style="border-radius:50px;" src="https://i1.sndcdn.com/artworks-000169499349-jznj34-t500x500.jpg">
 </div>
 
 ### **Stats** :computer:
 <div>
-<!-- <a href="https://github.com/Gurupreet">
+<a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPeterPietro&theme=dracula&hide_langs_below=1" />
-</a> -->
-
+</a>
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroPeterPietro&show_icons=true&theme=dracula&line_height=27" alt="Pedro -github stats"/>
 </a>
+  <img align="right" alt="Pedro-pic" height="150"style="border-radius:50px;" src="https://i1.sndcdn.com/artworks-000169499349-jznj34-t500x500.jpg">
 <div/>
   
 #### You can message me through these social media :mailbox_closed:
@@ -39,4 +40,4 @@
  <a href="https://www.instagram.com/pedrootadeu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>  
 
-  <img src="https://media.tenor.com/6qsDAP2bLQgAAAAC/homework-work.gif"  height="150" style="border-radius:50px;" />
+  <img align="right" src="https://64.media.tumblr.com/d2e50476353e9144a8c6717aeaa3658b/tumblr_o81mh9l0Be1ua2wbgo7_250.gifv"  height="150" style="border-radius:50px;" />
