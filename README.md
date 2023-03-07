@@ -17,7 +17,7 @@ Currently working with JS and nodeJS
 </div>
 
 ## **Stats**
-
+<div>
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPeterPietro&theme=dracula&hide_langs_below=1" />
 </a>
@@ -25,7 +25,8 @@ Currently working with JS and nodeJS
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroPeterPietro&show_icons=true&theme=dracula&line_height=27" alt="Pedro -github stats"/>
 </a>
-
+<div/>
+  
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
