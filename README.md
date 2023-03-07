@@ -1,4 +1,7 @@
  ## Hello everyone :wave:
+ <head>
+  <img  align="right" src="https://media.tenor.com/H-NXH7iOy_gAAAAC/gojo-satoru-jujutsu-kaisen.gif"  height="150" width="150" style="border-radius:50px;" />
+ </head>
  
    + I started programming in **C** and working with **Arduino** in my teens. 
    + I'm currently working with **JS** and **NodeJS** 
@@ -37,8 +40,8 @@
  <a href="https://www.instagram.com/pedrootadeu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>  
  
-<div align="center" style="display:flex;gap:100px;">
-  <img  src="https://media.tenor.com/6qsDAP2bLQgAAAAC/homework-work.gif"  height="150" width="150" style="border-radius:50px;" />
-  <img  height="150"style="border-radius:50px;" src="https://i1.sndcdn.com/artworks-000169499349-jznj34-t500x500.jpg">
+<!-- <div  align="center" style="display:flex;gap:100px;">
+  <img  src="https://media.tenor.com/jFKQs0KcJyMAAAAC/anya-forger-anya-spy-x-family.gif"  height="150" width="150" style="border-radius:50px;" />
+  <img  width = "150" height="150"style="border-radius:50px;" src="https://media.tenor.com/5eW1rTQ62uQAAAAC/dumb-chansey.gif">
   <img  src="https://64.media.tumblr.com/d2e50476353e9144a8c6717aeaa3658b/tumblr_o81mh9l0Be1ua2wbgo7_250.gifv"  height="150" style="border-radius:50px;" />
- </div>
+ </div> -->
