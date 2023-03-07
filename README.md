@@ -37,7 +37,7 @@
  <a href="https://www.instagram.com/pedrootadeu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>  
  
-<div style="display:grid; place-items:center;text-align:center;width:100%;justify-content:space-between;">
+<div>
   <img  src="https://media.tenor.com/6qsDAP2bLQgAAAAC/homework-work.gif"  height="150" width="150" style="border-radius:50px;" />
   <img  height="150"style="border-radius:50px;" src="https://i1.sndcdn.com/artworks-000169499349-jznj34-t500x500.jpg">
   <img  src="https://64.media.tumblr.com/d2e50476353e9144a8c6717aeaa3658b/tumblr_o81mh9l0Be1ua2wbgo7_250.gifv"  height="150" style="border-radius:50px;" />
