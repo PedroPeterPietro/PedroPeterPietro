@@ -1,4 +1,4 @@
-## Hello everyone
+## Hello everyone :wave:
 
 + I started programming in **C** and working with **Arduino** in my teens.
 * I'm currently working with **JS** and **NodeJS**
@@ -9,7 +9,7 @@
 
 
 
-### **Languages and Tools:**
+### **Languages and Tools** :hammer:
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
@@ -21,7 +21,7 @@
   <img align="right" alt="Pedro-pic" height="150"style="border-radius:50px;" src="https://i1.sndcdn.com/artworks-000169499349-jznj34-t500x500.jpg">
 </div>
 
-### **Stats**
+### **Stats** :computer:
 <div>
 <!-- <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPeterPietro&theme=dracula&hide_langs_below=1" />
@@ -32,7 +32,7 @@
 </a>
 <div/>
   
-#### You can message me through these social media:
+#### You can message me through these social media :mailbox_closed:
 <p align="left">
   <a href = "mailto:pedrotadeu@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-tadeu-0862a11a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
