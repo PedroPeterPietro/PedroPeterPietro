@@ -1,8 +1,5 @@
  ## Hello everyone :wave:
- <head>
-  <img  align="right" src="https://media.tenor.com/6qsDAP2bLQgAAAAC/homework-work.gif"  height="150" width ="150" style="border-radius:50px;" />
-  </head>
-
+ 
    + I started programming in **C** and working with **Arduino** in my teens. 
    + I'm currently working with **JS** and **NodeJS** 
    + I'm an enthusiast in the field of **Machine Learning** and **Embedded Systems**.
@@ -30,7 +27,7 @@
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroPeterPietro&show_icons=true&theme=dracula&line_height=27" alt="Pedro -github stats"/>
 </a>
-  <img align="right" alt="Pedro-pic" height="150"style="border-radius:50px;" src="https://i1.sndcdn.com/artworks-000169499349-jznj34-t500x500.jpg">
+  
 <div/>
   
 #### You can message me through these social media :mailbox_closed:
@@ -39,5 +36,9 @@
   <a href="https://www.linkedin.com/in/pedro-tadeu-0862a11a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/pedrootadeu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>  
-
-  <img align="right" src="https://64.media.tumblr.com/d2e50476353e9144a8c6717aeaa3658b/tumblr_o81mh9l0Be1ua2wbgo7_250.gifv"  height="150" style="border-radius:50px;" />
+ 
+<div style="display:grid; place-items:center;text-align:center;width:100%;justify-content:space-between;">
+  <img  src="https://media.tenor.com/6qsDAP2bLQgAAAAC/homework-work.gif"  height="150" width="150" style="border-radius:50px;" />
+  <img  height="150"style="border-radius:50px;" src="https://i1.sndcdn.com/artworks-000169499349-jznj34-t500x500.jpg">
+  <img  src="https://64.media.tumblr.com/d2e50476353e9144a8c6717aeaa3658b/tumblr_o81mh9l0Be1ua2wbgo7_250.gifv"  height="150" style="border-radius:50px;" />
+ </div>
