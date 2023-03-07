@@ -12,5 +12,5 @@ Currently working with JS and nodeJS
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-TensorFLow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://wallpapercave.com/wp/wp9025926.jpg">
+  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBc_O3untDxWU1oa_70mZXG9bZAOva31_A4Q&usqp=CAU">
 </div>
