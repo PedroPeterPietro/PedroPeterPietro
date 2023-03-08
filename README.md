@@ -1,6 +1,6 @@
  ## Hello everyone :wave:
  <head>
-  <img  align="right" src="https://media.tenor.com/H-NXH7iOy_gAAAAC/gojo-satoru-jujutsu-kaisen.gif"  height="150" width="150" style="border-radius:50px;" />
+  <img  align="right" src="https://i.pinimg.com/236x/e0/c1/dd/e0c1dd999f209803b97efa11ac723314.jpg"  height="150" width="150" style="border-radius:50px;" />
  </head>
  
    + I started programming in **C** and working with **Arduino** in my teens. 
