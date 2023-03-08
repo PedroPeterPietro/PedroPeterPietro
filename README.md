@@ -1,6 +1,6 @@
  ## Hello everyone :wave:
  <head >
-  <img  align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5I6s2Q5-hrrceEiJ7IR726pVQ4pA7YlpSQ&usqp=CAU"  height="150" width="180" style="border-radius:100px;" />
+  <img  align="right" src="https://static.wikia.nocookie.net/dbz-dokkanbattle/images/7/7b/Trunks_inherits_Tapion%27s_sword.gif/revision/latest/scale-to-width-down/400?cb=20210414232339"  height="150" width="180" style="border-radius:100px;" />
  </head>
  
    + I started programming in **C** and working with **Arduino** in my teens. 
