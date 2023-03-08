@@ -1,6 +1,6 @@
  ## Hello everyone :wave:
- <head>
-  <img  align="right" src="https://i.pinimg.com/236x/e0/c1/dd/e0c1dd999f209803b97efa11ac723314.jpg"  height="150" width="150" style="border-radius:50px;" />
+ <head >
+  <img  align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1604925666476507858/8002E00ACA8E0B730DD181840644FEB7ACE2C960/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  height="150" width="150" style="border-radius:100px;" />
  </head>
  
    + I started programming in **C** and working with **Arduino** in my teens. 
